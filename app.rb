@@ -1,4 +1,4 @@
-class Application < Sinatra::Base
+class App < Sinatra::Base
 
   get '/' do
     "Hello, World!"
